@@ -7,7 +7,7 @@ http://kdama.github.io/icpc.js/
 ### How to use
 Demo has 4 textareas. From left to right, **Source**, **Stdin**, **Stdout**, **Answer**.
 
-1. Write your JavaScript code to the **Source** textarea. Code must have a `main` function.
+1. Write your JavaScript code to the **Source** textarea. Code must have a `main` function which returns String value.
 2. Put your input dataset to the **Stdin** textarea. This dataset is passed to `main` function as the first argument.
 3. The return value of `main` is shown at the **Stdout** textarea.
 4. Put your answer set, which corresponds to the input dataset, to the **Answer** textarea. If the answer equals the value of the **Stdout**, both textareas light up green.
