@@ -1,2 +1,2 @@
 # icpc.js
-icpc.js: icpc.js is not javascript framework.
+icpc.js: icpc.js is not a javascript framework.
